@@ -115,7 +115,7 @@ encrypt('my message to encrypt', './output.key', options)
 ---
 
 ```javascript
-decrypt(message, outputFile, options)
+decrypt(inputFile, options)
 ```
 
 #### arguments
